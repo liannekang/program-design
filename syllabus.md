@@ -10,7 +10,7 @@ Office hours by appointment only (via [email](mailto:ben@typefounding.com))
 
 [Email](mailto:ben@typefounding.com) is responded to within a day (24 hours) of sending. Reply time is slower on weekends than during the week. Email or Slack are the preferred contact methods for questions outside of class.
 
-## Course Descriptiond
+## Course Description
 
 This is a class about asking questions, designing processes, building systems, input & output, and combining them together.  It is fundamentally experimental in nature.
 
@@ -119,7 +119,7 @@ The course fee ($40) provides for general shop materials (inks, rags, disposal, 
 Depending on scope of your projects, you may need to purchase additional paper and/or printmaking supplies.
 
 ### Daily Work/Homework
-No Homework!
+Students are expected to do work outside of class to complete assignments and do readings. More outside time will be required for the later assignments in the course. There will be no more than one reading every two weeks. Some outside work will require the use of the book studio during monitor hours; please plan accordingly.
 
 ### Class Participation
 Work time in the studio is critical to the successful completion of the class. Students are expected to arrive ready to participate and be fully engaged in the day’s coursework during the entire scheduled class period. Meaning, you are ready to provide critique, participate in formal and informal class discussion, and to discuss your work with peers.
@@ -166,7 +166,7 @@ All BFA Communication Design students, beginning with the spring semester of s
 ### Attendance Policy
 Attendance is mandatory and will be documented for all course meetings. Sam Fox students are expected to arrive ready to participate and be fully engaged in the day’s coursework during the entire scheduled class period. Participation in major critiques and reviews by all students is essential to the development of all of students. Failure to do so will have an impact on your final grade. Following university policy, class will begin promptly with the start time listed in the undergraduate bulletin.
 
-Each student is allowed four (4) absences. After three absences, students will receive one full letter grade penalty for each subsequent **unexcused** absence, regardless of the quality of the student’s work. The student’s grade will be lowered further for each consecutive absence after that. An unexcused absence is an absence not due to illness, family emergency, student accommodation, or religious holiday.
+Each student is allowed three (3) absences. After three absences, students will receive one full letter grade penalty for each subsequent **unexcused** absence, regardless of the quality of the student’s work. The student’s grade will be lowered further for each consecutive absence after that. An unexcused absence is an absence not due to illness, family emergency, student accommodation, or religious holiday.
 
 Three late arrivals and/or early departures will equal one absence. If a student misses more than 20 minutes of a class, they are considered absent. Missing a review or critique equals two absences. If a student must miss a critique, please inform the professor beforehand. Any student who misses class is responsible for contacting a fellow student to find out what they missed, for making up all work, and for being prepared for the next class.
 
